@@ -1,0 +1,16 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+#meat {
+    color: red
+}
+
+.list {
+    background-color: beige;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
